@@ -1,0 +1,9 @@
+*.csv
+mon_env/
+# Ignore log files
+*.log
+# Ignore temporary files
+*.tmp
+# Ignore compiled files
+*.exe
+*.dll
