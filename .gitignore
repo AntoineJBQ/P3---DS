@@ -1,5 +1,6 @@
 *.csv
 mon_env/
+_pycache_/
 # Ignore log files
 *.log
 # Ignore temporary files

@@ -1,40 +1,37 @@
-# Projet 3 - Data Scientist
+# Project 3 - Data Scientist
 
-Ce projet est dédié à l'analyse de données en utilisant des techniques de science des données.
+This project is dedicated to data analysis using data science techniques.
 
 ## Description
 
-Le projet consiste à collecter des données, les nettoyer, les analyser et enfin les visualiser. Il s'agit d'un projet de démonstration pour illustrer les compétences en science des données.
+The project involves collecting data, cleaning it, analyzing it, and finally visualizing it. It is a demonstration project to showcase data science skills.
 
 ## Installation
 
-1. Clonez ce dépôt sur votre machine locale.
-2. Installez les dépendances en exécutant la commande suivante :
+To install and set up this project, follow these steps:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+1. Clone the repository to your local machine.
+2. Install the required dependencies using `pip install -r requirements.txt`.
+3. Run the Jupyter notebook `analysis.ipynb` to perform the analysis.
 
-## Utilisation
+## Usage
 
-1. Exécutez le script principal en utilisant la commande suivante :
+To use this project, follow these guidelines:
 
-    ```bash
-    python main.py
-    ```
+1. Open the Jupyter notebook `analysis.ipynb`.
+2. Execute each cell in the notebook to run the analysis.
+3. Explore the results and insights obtained from the analysis.
 
-2. Suivez les instructions à l'écran pour interagir avec l'application.
+## Contributing
 
-## Contribuer
+Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
-Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce projet, veuillez suivre les étapes suivantes :
+1. Fork this repository.
+2. Create a new branch for your modifications.
+3. Make your modifications and commit them.
+4. Push your modifications to your fork.
+5. Open a pull request to propose your modifications.
 
-1. Forker ce dépôt.
-2. Créez une nouvelle branche pour vos modifications.
-3. Faites vos modifications et committez-les.
-4. Poussez vos modifications sur votre fork.
-5. Ouvrez une pull request pour proposer vos modifications.
+## License
 
-## Licence
-
-Ce projet est sous licence MIT. Veuillez consulter le fichier [LICENSE](LICENSE) pour plus d'informations.
+This project is licensed under the MIT License. Please see the [LICENSE](LICENSE) file for more information.
